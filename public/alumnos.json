@@ -1,0 +1,67 @@
+{
+  "notas_alumnos": [
+    {
+
+      "id": "1",
+      "nombre": "Jose Carlos",
+      "apellidos": "Martín Martín",
+      "bases_de_datos": 6,
+      "programacion": 8,
+      "lenguajes_de_marcas": 9,
+      "sistemas_informaticos": 5,
+      "fol": 6,
+      "entornos_de_desarrollo": 8
+
+
+    },
+    {
+
+      "id": "2",
+      "nombre": "Jose Luís",
+      "apellidos": "Sánchez Sánchez",
+      "bases_de_datos": 7,
+      "programacion": 6,
+      "lenguajes_de_marcas": 7,
+      "sistemas_informaticos": 7,
+      "fol": 6,
+      "entornos_de_desarrollo": 8
+
+    },
+    {
+
+      "id": "3",
+      "nombre": "Jose Manuel",
+      "apellidos": "García García",
+      "bases_de_datos": 9,
+      "programacion": 8,
+      "lenguajes_de_marcas": 9,
+      "sistemas_informaticos": 7,
+      "fol": 9,
+      "entornos_de_desarrollo": 8
+
+    },
+    {
+      "id": "4",
+      "nombre": "María",
+      "apellidos": "López García",
+      "bases_de_datos": 9,
+      "programacion": 10,
+      "lenguajes_de_marcas": 9,
+      "sistemas_informaticos": 10,
+      "fol": 8,
+      "entornos_de_desarrollo": 9
+    },
+    {
+      "id": "5",
+      "nombre": "Lucas",
+      "apellidos": "Fernandez Gonzalez",
+      "bases_de_datos": 4,
+      "programacion": 5,
+      "lenguajes_de_marcas": 6,
+      "sistemas_informaticos": 5,
+      "fol": 6,
+      "entornos_de_desarrollo": 7
+    }
+
+  ]
+}

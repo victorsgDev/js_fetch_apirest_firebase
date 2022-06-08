@@ -1,0 +1,28 @@
+body{
+    background-color: aliceblue;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: inset 2px black;
+    border-radius: 10px;
+    box-shadow: 5px 10px 10px cadetblue;
+}
+img:hover {
+    transform: scaleX(-1);
+}
+
+.margin3{
+    margin: 3%;
+}
+.margin5{
+    margin: 5%;
+}
+h1{
+    text-align: center;
+    color: darkorange;
+    text-shadow: 2px 2px 2px black ;
+}
